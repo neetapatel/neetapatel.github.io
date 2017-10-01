@@ -69,25 +69,31 @@ a {
 
 .home {
   height: 100vh;
-  width: 100 vh;
+  width: 100vw;
   background-image: url("/img/site/the_work.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  cursor: url("../img/site/arrow.svg"), move; }
+  cursor: url("../img/site/arrow.svg"), auto; }
 
 .content {
-  width: 100 vh;
-  background-image: url("/img/site/me.JPG");
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
   padding-top: 150px;
   padding-left: 10vw;
   padding-right: 10vw;
-  padding-bottom: 150px; }
+  padding-bottom: 150px;
+  background-size: cover;
+  background-attachment: fixed;
+  /*  height: 100vh;
+    /*background-image: url('/img/site/me.JPG');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  
+    .actual-content {
+      height: 100vh - $nav-font-size * 2.5;
+    }*/ }
   .content p {
     margin-bottom: 1em; }
   .content ul {

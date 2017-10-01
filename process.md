@@ -1,5 +1,6 @@
 ---
 layout: post
+title: process
 ---
 
 {% assign posts = site.posts | sort: 'date' | reverse %}

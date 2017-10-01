@@ -1,8 +1,8 @@
 ---
 layout: page
+title: about
 img: "/img/process/me.JPG"
 ---
-<div class="test"></div>
 
 Hello. My name is Neeta Patel. I am a graphic designer and artist.
 
