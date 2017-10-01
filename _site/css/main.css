@@ -17,9 +17,11 @@ dl, dd, ol, ul, figure {
 
 /* Basic styling */
 html {
+  height: 100%;
   /*cursor: crosshair;*/ }
 
 body {
+  height: 100%;
   font-family: "Univers55", Helvetica, Arial, sans-serif;
   font-size: 40px;
   color: black; }
@@ -68,8 +70,8 @@ a {
   padding-bottom: 10px; }
 
 .home {
-  height: 100vh;
-  width: 100vw;
+  height: 100%;
+  width: 100%;
   background-image: url("/img/site/the_work.jpg");
   background-position: center center;
   background-repeat: no-repeat;
@@ -92,7 +94,8 @@ a {
   width: 100vw; }
 
 .about {
-  background-image: url("/img/site/me.jpg");
+  width: 100%;
+  background-image: url("/img/site/me.JPG");
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
