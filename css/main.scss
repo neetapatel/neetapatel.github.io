@@ -6,19 +6,21 @@
 
 // Variables
 $base-font-family: "Univers55", Helvetica, Arial, sans-serif;
-$base-font-size: 20px;
+$base-font-size: 40px;
 $base-color: black;
 
 $href-color: red;
 $href-alt-color: white;
-$href-hover-color: gray;
+$href-hover-color: red;
 
 $nav-font: "neetasface", serif;
 $nav-font-size: 60px;
 
 $frame-padding: 10px;
+$view-padding: 5vw;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "base";
 @import "nav";
 @import "home";
+@import "page";
