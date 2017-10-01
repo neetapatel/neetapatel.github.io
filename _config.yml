@@ -28,7 +28,10 @@ plugins:
   - jekyll-feed
 sass:
   sass_dir: _sass
-  
+
+# Google Analytics
+google_analytics: UA-107304724-1
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
