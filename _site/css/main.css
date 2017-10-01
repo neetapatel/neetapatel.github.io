@@ -88,6 +88,11 @@ a {
   background-size: cover;
   cursor: url("../img/site/arrow.svg"), auto; }
 
+.caption {
+  font-size: 25px;
+  color: gray;
+  margin-top: -1.5em; }
+
 .content {
   padding-top: 150px;
   padding-left: 10vw;
@@ -97,10 +102,41 @@ a {
     margin-bottom: 1em; }
   .content ul {
     list-style: none; }
+  .content a {
+    color: white;
+    text-decoration: none; }
+    .content a:visited {
+      color: white;
+      text-decoration: none; }
+    .content a:hover {
+      color: red; }
+  .content .opposite a {
+    color: red;
+    text-decoration: none; }
+    .content .opposite a:visited {
+      color: red;
+      text-decoration: none; }
+    .content .opposite a:hover {
+      color: white; }
 
+/* for posts on the process blog page */
 .post-content img {
   display: block;
   width: 100vw; }
+
+/* for works pages */
+.work-heading .work-title {
+  font-size: 100px; }
+.work-heading .work-sub {
+  font-size: 25px;
+  color: gray; }
+
+.work-content img {
+  margin-top: 5vw;
+  margin-bottom: 0;
+  max-width: 100%;
+  height: auto;
+  align-self: center; }
 
 .about {
   width: 100%;

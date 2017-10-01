@@ -1,3 +1,9 @@
+.caption {
+  font-size: $small-font-size;
+  color: $sub-color;
+  margin-top: -1.5em;
+}
+
 .content {
   padding-top: $nav-font-size * 2.5;
   padding-left: $view-padding * 2;
@@ -11,7 +17,37 @@
   ul {
     list-style: none;
   }
+
+  a {
+    color: $href-alt-color;
+    text-decoration: none;
+
+    &:visited {
+      color: $href-alt-color;
+      text-decoration: none;
+    }
+
+    &:hover {
+      color: $href-color;
+    }
+  }
+
+  .opposite a {
+    color: $href-color;
+    text-decoration: none;
+
+    &:visited {
+      color: $href-color;
+      text-decoration: none;
+    }
+
+    &:hover {
+      color: $href-alt-color;
+    }
+  }
 }
+
+/* for posts on the process blog page */
 
 .post-content {
 
@@ -20,4 +56,29 @@
   width: 100vw;
   }
 
+}
+
+/* for works pages */
+
+.work-heading {
+
+  .work-title {
+    font-size: $huge-font-size;
+  }
+
+  .work-sub {
+    font-size: $small-font-size;
+    color: $sub-color;
+  }
+
+}
+
+.work-content {
+  img {
+    margin-top: $view-padding;
+    margin-bottom: 0;
+    max-width: 100%;
+    height: auto;
+    align-self: center;
+  }
 }

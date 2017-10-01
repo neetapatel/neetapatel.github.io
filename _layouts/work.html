@@ -2,6 +2,17 @@
 layout: default
 ---
 
-<div class="">
-  {{ content }}
+<div class="content">
+  <div class="opposite">
+
+    <div class="work-heading">
+      <div class="work-title">{{ page.title }}</div>
+      <div class="work-sub">{{ page.date | date: "%b %Y" }} | {{ page.sub }}</div>
+    </div>
+
+    <div class="work-content">
+      {{ content }}
+    </div>
+
+  </div>
 </div>

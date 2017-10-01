@@ -3,11 +3,13 @@ layout: default
 ---
 
 <div class="content">
-{% assign works = site.works | sort: 'date' | reverse %}
+  <div class="opposite">
+  {% assign works = site.works | sort: 'date' | reverse %}
 
-  {% for work in works %}
+    {% for work in works %}
 
-    <p>{{ work.title }}</p>
+      <p><a href="{{site.url}}{{work.url}}">{{ work.title }}</a></p>
 
-  {% endfor %}
+    {% endfor %}
+  </div>
 </div>
