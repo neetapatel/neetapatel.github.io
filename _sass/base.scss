@@ -43,3 +43,17 @@ a {
     color: $href-hover-color;
   }
 }
+
+.opposite a {
+  color: $href-color;
+  text-decoration: none;
+
+  &:visited {
+    color: $href-color;
+    text-decoration: none;
+  }
+
+  &:hover {
+    color: $href-alt-color;
+  }
+}

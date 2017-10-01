@@ -35,6 +35,15 @@ a {
   a:hover {
     color: red; }
 
+.opposite a {
+  color: red;
+  text-decoration: none; }
+  .opposite a:visited {
+    color: red;
+    text-decoration: none; }
+  .opposite a:hover {
+    color: white; }
+
 .nav {
   font-family: "neetasface", serif;
   font-size: 60px;
