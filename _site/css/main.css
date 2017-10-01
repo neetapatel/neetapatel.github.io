@@ -1,0 +1,78 @@
+@font-face {
+  font-family: 'Univers55';
+  /*a name to be used later*/
+  src: url("/fonts/univers55.ttf");
+  /*URL to font*/ }
+@font-face {
+  font-family: 'neetasface';
+  /*a name to be used later*/
+  src: url("/fonts/neetasface.ttf");
+  /*URL to font*/ }
+/* Reset some basic elements */
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+  margin: 0;
+  padding: 0; }
+
+/* Basic styling */
+html {
+  /*cursor: crosshair;*/ }
+
+body {
+  font-family: "Univers55", Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  color: black; }
+
+a {
+  color: white;
+  text-decoration: none; }
+  a:visited {
+    color: white;
+    text-decoration: none; }
+  a:hover {
+    color: gray; }
+
+.nav {
+  font-family: "neetasface", serif;
+  font-size: 60px;
+  margin: 0;
+  /*line-height: 1em;*/ }
+
+.nav-top-left {
+  position: fixed;
+  z-index: 99;
+  top: 0;
+  padding-left: 10px; }
+
+.nav-top-right {
+  position: fixed;
+  z-index: 99;
+  right: 0;
+  top: 0;
+  padding-right: 10px; }
+
+.nav-bottom-left {
+  position: fixed;
+  z-index: 99;
+  bottom: 0;
+  padding-left: 10px;
+  padding-bottom: 10px; }
+
+.nav-bottom-right {
+  position: fixed;
+  z-index: 99;
+  bottom: 0;
+  right: 0;
+  padding-right: 10px;
+  padding-bottom: 10px; }
+
+.home {
+  height: 100vh;
+  width: 100 vh;
+  background-image: url("/img/site/the_work.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  cursor: url("/img/site/arrow.svg") 10 10, auto; }

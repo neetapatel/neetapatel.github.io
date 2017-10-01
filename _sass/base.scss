@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'Univers55'; /*a name to be used later*/
+    src: url('/fonts/univers55.ttf'); /*URL to font*/
+}
+
+@font-face {
+    font-family: 'neetasface'; /*a name to be used later*/
+    src: url('/fonts/neetasface.ttf'); /*URL to font*/
+}
+
+/* Reset some basic elements */
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+    margin: 0;
+    padding: 0;
+}
+
+/* Basic styling */
+
+html {
+  /*cursor: crosshair;*/
+}
+
+body {
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  color: $base-color;
+}
+
+a {
+  color: $href-alt-color;
+  text-decoration: none;
+
+  &:visited {
+    color: $href-alt-color;
+    text-decoration: none;
+  }
+
+  &:hover {
+    color: $href-hover-color;
+  }
+}

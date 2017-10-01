@@ -1,0 +1,24 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+@charset "utf-8";
+
+// Variables
+$base-font-family: "Univers55", Helvetica, Arial, sans-serif;
+$base-font-size: 20px;
+$base-color: black;
+
+$href-color: red;
+$href-alt-color: white;
+$href-hover-color: gray;
+
+$nav-font: "neetasface", serif;
+$nav-font-size: 60px;
+
+$frame-padding: 10px;
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import "base";
+@import "nav";
+@import "home";
