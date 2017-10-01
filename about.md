@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: about
 img: "/img/process/me.JPG"
 ---

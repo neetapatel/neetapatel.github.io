@@ -81,19 +81,7 @@ a {
   padding-top: 150px;
   padding-left: 10vw;
   padding-right: 10vw;
-  padding-bottom: 150px;
-  background-size: cover;
-  background-attachment: fixed;
-  /*  height: 100vh;
-    /*background-image: url('/img/site/me.JPG');
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-  
-    .actual-content {
-      height: 100vh - $nav-font-size * 2.5;
-    }*/ }
+  padding-bottom: 150px; }
   .content p {
     margin-bottom: 1em; }
   .content ul {
@@ -103,3 +91,12 @@ a {
 .post-content img {
   display: block;
   width: 100vw; }
+
+.about {
+  height: 100vh;
+  width: 100vw;
+  background-image: url("/img/site/me.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; }
