@@ -3,13 +3,25 @@ layout: default
 ---
 
 <div class="content">
-  <div class="opposite">
+  <div class="opposite grid-elements">
+
   {% assign works = site.works | sort: 'date' | reverse %}
 
     {% for work in works %}
+      <div class="work-container">
+        <a href="{{site.url}}{{work.url}}">
+          <div class="even-height"><img class="works-image" src="{{ work.img }}"></div>
+          <div class="project-title">{{ work.title }}</div>
+        </a>
 
-      <p><a href="{{site.url}}{{work.url}}">{{ work.title }}</a></p>
+        {% assign tags = work.tags %}
+          {% for tag in tags %}
+          <div class="project-tags">&nbsp;&nbsp;&nbsp;{{ tag }}</div>
+          {% endfor %}
+
+      </div>
 
     {% endfor %}
+
   </div>
 </div>

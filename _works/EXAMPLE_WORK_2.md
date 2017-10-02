@@ -1,16 +1,16 @@
 ---
 layout: work
-date: 2016-01-11
+date: 2016-01-10
 
-title: "Work Example"
+title: "Work Example 2"
 sub: "An example work page by p.youth language"
 detail: "One sentence detail about the work."
 
-img: "/img/works/example/plan.jpg"
-tags: ["print", "publication"]
+img: "/img/works/example/ex2.jpg"
+tags: ["print", "magazine"]
 ---
 
-![Plan Quarterly](/img/works/example/plan.jpg)
+![Plan Quarterly](/img/works/example/ex2.jpg)
 
 This is an example of a work page [description](https://www.merriam-webster.com/dictionary/description). Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse elit mauris, maximus sed bibendum et, varius eu turpis. Fusce eget nulla in urna pretium pulvinar. Morbi placerat condimentum lorem, at vestibulum enim mollis ut. Nunc ornare purus vitae lorem gravida, in dignissim mauris ultricies. Morbi et leo tincidunt, venenatis tortor sit amet, varius arcu. Phasellus tincidunt eros odio. Sed efficitur rhoncus dignissim. Nullam sit amet venenatis nisi. Cras interdum orci ut finibus aliquam.
 

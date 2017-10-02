@@ -118,6 +118,24 @@ a {
       text-decoration: none; }
     .content .opposite a:hover {
       color: white; }
+  .content .grid-elements {
+    text-align: center; }
+  .content .work-container {
+    width: 45%;
+    display: inline-block;
+    margin: 0.5em; }
+    .content .work-container .works-image {
+      height: 100%;
+      width: 100%; }
+    .content .work-container .project-title {
+      font-size: 0.35em;
+      float: left;
+      text-transform: uppercase; }
+    .content .work-container .project-tags {
+      font-size: 0.35em;
+      float: right;
+      text-transform: uppercase;
+      color: gray; }
 
 /* for posts on the process blog page */
 .post-content img {
@@ -134,7 +152,7 @@ a {
 .work-content img {
   margin-top: 5vw;
   margin-bottom: 0;
-  max-width: 100%;
+  width: 100%;
   height: auto;
   align-self: center; }
 
