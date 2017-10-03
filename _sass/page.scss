@@ -4,6 +4,38 @@
   margin-top: -1.5em;
 }
 
+.home {
+  //padding-top: $nav-font-size * 2.5;
+  //padding-bottom: $nav-font-size * 2.5;
+
+  height: 100%;
+
+  padding-left: $view-padding * 1.5;
+  padding-right: $view-padding * 1.5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .slideshowParent {
+    .slideshowContainer {
+      /* centering slideshow image within its parent container */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 80vh;
+      overflow: hidden;
+
+      .mySlides {
+
+        img {
+          width: 100%;
+          display: inline-block;
+        }
+      }
+    }
+  }
+}
+
 .content {
   padding-top: $nav-font-size * 2.5;
   padding-bottom: $nav-font-size * 2.5;
@@ -49,14 +81,14 @@
   */
 
 
-  .slideshowParent {
+  /*.slideshowParent {
     .slideshowContainer {
-      /* centering slideshow image within its parent container */
+       centering slideshow image within its parent container
       display: flex;
       justify-content: center;
       align-items: center;
       height: 80vh;
-      //height: property-value(height, #slideshowParent) - $nav-font-size;
+      height: property-value(height, #slideshowParent) - $nav-font-size;
       overflow: hidden;
 
       .mySlides {
@@ -67,7 +99,7 @@
         }
       }
     }
-  }
+  }*/
 
   .grid-elements {
     text-align: center;
