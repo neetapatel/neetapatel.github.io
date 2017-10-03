@@ -20,14 +20,14 @@
 
     <header>
   <nav class="nav ">
-    <a href="/" class="nav-top-left">neeta patel</a>
+    <a href="/" class="nav-top-left">neeta</a>
     <a href="/works.html" class="nav-top-right">works</a>
   </nav>
 </header>
 
 
     <div class="home">
-    <div class="slideshowParent">
+    <div class="slideshowParent" id="">
   <div class="slideshowContainer">
     <div class="mySlides">
       <img src="/img/site/the_work.jpg">
@@ -63,7 +63,7 @@
       slideIndex++;
       if (slideIndex > slides.length) {slideIndex = 1}
       slides[slideIndex-1].style.display = "block";
-      setTimeout(showSlides, 2000); // Change image every second
+      setTimeout(showSlides, 2000); // Change image every two seconds
   }
 
 </script>

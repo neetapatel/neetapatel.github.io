@@ -1,0 +1,17 @@
+---
+layout: home
+---
+
+<div class="slideshowParent">
+  <div class="slideshowContainer-process">
+
+    {% assign posts = site.posts | sort: 'date' | reverse %}
+
+    {% for post in posts %}
+    <div class="mySlides">
+      <img src="{{post.img}}">
+    </div>
+    {% endfor %}
+
+  </div>
+</div>

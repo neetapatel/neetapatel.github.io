@@ -1,22 +1,18 @@
 .caption {
-  font-size: $small-font-size;
+  //font-size: $small-font-size;
   color: $sub-color;
-  margin-top: -1.5em;
 }
 
 .home {
-  //padding-top: $nav-font-size * 2.5;
-  //padding-bottom: $nav-font-size * 2.5;
-
   height: 100%;
-
-  padding-left: $view-padding * 1.5;
-  padding-right: $view-padding * 1.5;
+  padding-left: $view-padding * 2;
+  padding-right: $view-padding * 2;
   display: flex;
   justify-content: center;
   align-items: center;
 
   .slideshowParent {
+
     .slideshowContainer {
       /* centering slideshow image within its parent container */
       display: flex;
@@ -26,24 +22,41 @@
       overflow: hidden;
 
       .mySlides {
-
         img {
           width: 100%;
           display: inline-block;
         }
       }
     }
+
+    .slideshowContainer-process {
+      /* centering slideshow image within its parent container */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 80vh;
+      overflow-x: hidden;
+      overflow-y: scroll;
+
+      .mySlides {
+        img {
+          width: 100%;
+          display: inline-block;
+        }
+      }
+    }
+
   }
 }
 
 .content {
-  padding-top: $nav-font-size * 2.5;
-  padding-bottom: $nav-font-size * 2.5;
-  padding-left: $view-padding * 1.5;
-  padding-right: $view-padding * 1.5;
+  padding-top: $nav-font-size * 4.5;
+  padding-bottom: $nav-font-size * 4.5;
+  padding-left: $view-padding * 2;
+  padding-right: $view-padding * 2;
 
   p {
-    margin-bottom: 1em;
+    margin-bottom: 1.5em;
   }
 
   ul {
@@ -51,55 +64,28 @@
   }
 
   a {
-    color: $href-alt-color;
+    color: $href-hover-color;
     text-decoration: none;
 
     &:visited {
-      color: $href-alt-color;
+      color: $href-hover-color;
       text-decoration: none;
     }
 
+    &:hover {
+      color: $href-color;
+    }
+  }
+
+  .opposite a {
+    color: $href-color;
+    &:visited {
+      color: $href-color;
+    }
     &:hover {
       color: $href-hover-color;
     }
   }
-
-  /*
-  .opposite a {
-    color: $href-color;
-    text-decoration: none;
-
-    &:visited {
-      color: $href-color;
-      text-decoration: none;
-    }
-
-    &:hover {
-      color: $href-alt-color;
-    }
-  }
-  */
-
-
-  /*.slideshowParent {
-    .slideshowContainer {
-       centering slideshow image within its parent container
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 80vh;
-      height: property-value(height, #slideshowParent) - $nav-font-size;
-      overflow: hidden;
-
-      .mySlides {
-
-        img {
-          width: 100%;
-          display: inline-block;
-        }
-      }
-    }
-  }*/
 
   .grid-elements {
     text-align: center;
@@ -108,10 +94,7 @@
   .work-container {
     width: 45%;
     display: inline-block;
-    margin: 0.5em;
-
-    .even-height {
-    }
+    //margin: 0.5em;
 
     .works-image {
       height: 100%;
@@ -119,16 +102,15 @@
     }
 
     .project-title {
-      font-size: 0.35em;
+      font-size: $work-tag-size;
       float: left;
       text-transform: uppercase;
     }
 
     .project-tags {
-      font-size: 0.35em;
+      font-size: $work-tag-size;
       float: right;
       text-transform: uppercase;
-      color: $sub-color;
     }
   }
 
@@ -149,18 +131,21 @@
 
 .work-heading {
 
+  margin-bottom: 2em;
+
   .work-title {
     font-size: $huge-font-size;
   }
 
   .work-sub {
-    font-size: $small-font-size;
+    //font-size: $small-font-size;
     color: $sub-color;
   }
 
 }
 
 .work-content {
+
   img {
     margin-top: $view-padding;
     margin-bottom: 0;

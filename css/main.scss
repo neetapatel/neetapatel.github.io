@@ -6,15 +6,15 @@
 
 // Variables
 $base-font-family: "Univers55", Helvetica, Arial, sans-serif;
-$base-font-size: 40px;
+$base-font-size: 24px;
+$huge-font-size: 60px;
+$small-font-size: 18px;
+$work-tag-size: 13px;
 $base-color: black;
 $sub-color: gray;
 
-$huge-font-size: 80px;
-$small-font-size: 25px;
-
 $href-color: black;
-$href-alt-color: white;
+$href-alt-color: gray;
 $href-hover-color: red;
 
 $nav-font: "neetasface", serif;
@@ -27,4 +27,3 @@ $view-padding: 5vw;
 @import "base";
 @import "nav";
 @import "page";
-@import "about";

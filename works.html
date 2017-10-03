@@ -10,13 +10,13 @@ layout: default
     {% for work in works %}
       <div class="work-container">
         <a href="{{work.url}}">
-          <div class="even-height"><img class="works-image" src="{{ work.img }}"></div>
+          <div class=""><img class="works-image" src="{{ work.img }}"></div>
           <div class="project-title">{{ work.title }}</div>
         </a>
 
         {% assign tags = work.tags %}
           {% for tag in tags %}
-          <div class="project-tags">&nbsp;&nbsp;&nbsp;{{ tag }}</div>
+          <div class="project-tags">&nbsp;&nbsp;&nbsp;<a href="">{{ tag }}</a></div>
           {% endfor %}
 
       </div>

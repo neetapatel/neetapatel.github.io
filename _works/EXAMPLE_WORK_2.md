@@ -8,13 +8,15 @@ detail: "One sentence detail about the work."
 
 img: "/img/works/example/ex2.jpg"
 tags: ["print", "magazine"]
+divider: "|"
 ---
-
-![Plan Quarterly](/img/works/example/ex2.jpg)
 
 This is an example of a work page [description](https://www.merriam-webster.com/dictionary/description). Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse elit mauris, maximus sed bibendum et, varius eu turpis. Fusce eget nulla in urna pretium pulvinar. Morbi placerat condimentum lorem, at vestibulum enim mollis ut. Nunc ornare purus vitae lorem gravida, in dignissim mauris ultricies. Morbi et leo tincidunt, venenatis tortor sit amet, varius arcu. Phasellus tincidunt eros odio. Sed efficitur rhoncus dignissim. Nullam sit amet venenatis nisi. Cras interdum orci ut finibus aliquam.
 
-Etiam ac arcu ac ante egestas pellentesque at et risus. Fusce vel lorem dolor. Etiam porta sollicitudin est quis porttitor. In leo est, [Quarterly](http://franklloydwright.org/quarterly) sed interdum laoreet.
+Etiam ac arcu ac ante egestas pellentesque at et risus. Fusce vel lorem dolor. Etiam porta sollicitudin est quis porttitor. In leo est, [Quarterly](http://franklloydwright.org/quarterly) sed interdum laoreet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse elit mauris, maximus sed bibendum et, varius eu turpis. Fusce eget nulla in urna pretium pulvinar. Morbi placerat condimentum lorem, at vestibulum enim mollis ut. Nunc ornare purus vitae lorem gravida, in dignissim mauris ultricies. Morbi et leo tincidunt, venenatis tortor sit amet, varius arcu. Phasellus tincidunt eros odio. Sed efficitur rhoncus dignissim. Nullam sit amet venenatis nisi. Cras interdum orci ut finibus aliquam.
+
+![Plan Quarterly](/img/works/example/ex2.jpg)
+* {:.caption}try to insert a caption here if you can
 
 ![detail](/img/works/example/plan_detail.jpg)
 * {:.caption}caption potential here

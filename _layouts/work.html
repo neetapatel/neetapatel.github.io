@@ -3,11 +3,10 @@ layout: default
 ---
 
 <div class="content">
-  <div class="opposite">
-
+  <div class="">
     <div class="work-heading">
       <div class="work-title">{{ page.title }}</div>
-      <div class="work-sub">{{ page.date | date: "%b %Y" }} | {{ page.sub }}</div>
+      <p class="work-sub">{{ page.date | date: "%b %Y" }}  {{page.divider}}  {{ page.sub }}</p>
     </div>
 
     <div class="work-content">

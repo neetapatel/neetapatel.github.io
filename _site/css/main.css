@@ -23,7 +23,7 @@ html {
 body {
   height: 100%;
   font-family: "Univers55", Helvetica, Arial, sans-serif;
-  font-size: 40px;
+  font-size: 24px;
   color: black; }
 
 a {
@@ -34,15 +34,6 @@ a {
     text-decoration: none; }
   a:hover {
     color: red; }
-
-.opposite a {
-  color: white;
-  text-decoration: none; }
-  .opposite a:visited {
-    color: black;
-    text-decoration: none; }
-  .opposite a:hover {
-    color: white; }
 
 .nav {
   font-family: "neetasface", serif;
@@ -79,14 +70,12 @@ a {
   padding-bottom: 10px; }
 
 .caption {
-  font-size: 25px;
-  color: gray;
-  margin-top: -1.5em; }
+  color: gray; }
 
 .home {
   height: 100%;
-  padding-left: 7.5vw;
-  padding-right: 7.5vw;
+  padding-left: 10vw;
+  padding-right: 10vw;
   display: flex;
   justify-content: center;
   align-items: center; }
@@ -100,76 +89,57 @@ a {
     .home .slideshowParent .slideshowContainer .mySlides img {
       width: 100%;
       display: inline-block; }
+  .home .slideshowParent .slideshowContainer-process {
+    /* centering slideshow image within its parent container */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    overflow-x: hidden;
+    overflow-y: scroll; }
+    .home .slideshowParent .slideshowContainer-process .mySlides img {
+      width: 100%;
+      display: inline-block; }
 
 .content {
-  padding-top: 75px;
-  padding-bottom: 75px;
-  padding-left: 7.5vw;
-  padding-right: 7.5vw;
-  /*
-  .opposite a {
-    color: $href-color;
-    text-decoration: none;
-
-    &:visited {
-      color: $href-color;
-      text-decoration: none;
-    }
-
-    &:hover {
-      color: $href-alt-color;
-    }
-  }
-  */
-  /*.slideshowParent {
-    .slideshowContainer {
-       centering slideshow image within its parent container
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 80vh;
-      height: property-value(height, #slideshowParent) - $nav-font-size;
-      overflow: hidden;
-
-      .mySlides {
-
-        img {
-          width: 100%;
-          display: inline-block;
-        }
-      }
-    }
-  }*/ }
+  padding-top: 135px;
+  padding-bottom: 135px;
+  padding-left: 10vw;
+  padding-right: 10vw; }
   .content p {
-    margin-bottom: 1em; }
+    margin-bottom: 1.5em; }
   .content ul {
     list-style: none; }
   .content a {
-    color: white;
+    color: red;
     text-decoration: none; }
     .content a:visited {
-      color: white;
+      color: red;
       text-decoration: none; }
     .content a:hover {
+      color: black; }
+  .content .opposite a {
+    color: black; }
+    .content .opposite a:visited {
+      color: black; }
+    .content .opposite a:hover {
       color: red; }
   .content .grid-elements {
     text-align: center; }
   .content .work-container {
     width: 45%;
-    display: inline-block;
-    margin: 0.5em; }
+    display: inline-block; }
     .content .work-container .works-image {
       height: 100%;
       width: 100%; }
     .content .work-container .project-title {
-      font-size: 0.35em;
+      font-size: 13px;
       float: left;
       text-transform: uppercase; }
     .content .work-container .project-tags {
-      font-size: 0.35em;
+      font-size: 13px;
       float: right;
-      text-transform: uppercase;
-      color: gray; }
+      text-transform: uppercase; }
 
 /* for posts on the process blog page */
 .post-content img {
@@ -177,11 +147,12 @@ a {
   width: 100vw; }
 
 /* for works pages */
-.work-heading .work-title {
-  font-size: 80px; }
-.work-heading .work-sub {
-  font-size: 25px;
-  color: gray; }
+.work-heading {
+  margin-bottom: 2em; }
+  .work-heading .work-title {
+    font-size: 60px; }
+  .work-heading .work-sub {
+    color: gray; }
 
 .work-content img {
   margin-top: 5vw;
@@ -189,11 +160,3 @@ a {
   width: 100%;
   height: auto;
   align-self: center; }
-
-.about {
-  width: 100%;
-  background-image: url("/img/site/me.JPG");
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover; }
