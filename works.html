@@ -15,11 +15,6 @@ layout: default
         </a>
         <div class="project-title">{{ work.detail }}</div>
 
-        {% assign tags = work.tags %}
-          {% for tag in tags %}
-          <div class="project-tags opposite"><a href="">{{ tag }}</a></div>
-          {% endfor %}
-
       </div>
     {% endfor %}
 

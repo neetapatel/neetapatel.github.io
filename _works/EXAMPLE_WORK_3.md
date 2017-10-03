@@ -4,7 +4,7 @@ date: 2016-01-09
 
 title: "Work Example 3"
 sub: "An example work page by p.youth language"
-detail: "One sentence detail about the work."
+detail: "One sentence detail about the work. Sometimes I might even have two."
 
 img: "/img/works/example/ex3.jpg"
 tags: ["print"]
