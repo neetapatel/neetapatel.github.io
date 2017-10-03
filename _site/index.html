@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html>
 
   <head>
@@ -25,13 +26,19 @@
 </header>
 
 
-    <a href="/works.html">
-  <div class="home">
-
-    
-
+    <div class="content">
+    <div class="slideshowParent">
+  <div class="slideshowContainer">
+    <div class="mySlides">
+      <img src="/img/site/the_work.jpg">
+    </div>
+    <div class="mySlides">
+      <img src="/img/site/the_world.jpg">
+    </div>
   </div>
-</a>
+</div>
+
+</div>
 
 
     <footer>
@@ -40,6 +47,26 @@
     <a href="/about.html" class="nav-bottom-right">about</a>
   </nav>
 </footer>
+
+
+    <script>
+
+  var slideIndex = 0;
+  showSlides(slideIndex);
+
+  function showSlides() {
+      var i;
+      var slides = document.getElementsByClassName("mySlides");
+      for (i = 0; i < slides.length; i++) {
+          slides[i].style.display = "none";
+      }
+      slideIndex++;
+      if (slideIndex > slides.length) {slideIndex = 1}
+      slides[slideIndex-1].style.display = "block";
+      setTimeout(showSlides, 2000); // Change image every second
+  }
+
+</script>
 
 
     
@@ -55,6 +82,7 @@
 </script>
 
     
+
   </body>
 
 </html>

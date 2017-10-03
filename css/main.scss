@@ -10,15 +10,15 @@ $base-font-size: 40px;
 $base-color: black;
 $sub-color: gray;
 
-$huge-font-size: 100px;
+$huge-font-size: 80px;
 $small-font-size: 25px;
 
-$href-color: red;
+$href-color: black;
 $href-alt-color: white;
 $href-hover-color: red;
 
 $nav-font: "neetasface", serif;
-$nav-font-size: 60px;
+$nav-font-size: 40px;
 
 $frame-padding: 10px;
 $view-padding: 5vw;
@@ -26,6 +26,5 @@ $view-padding: 5vw;
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "base";
 @import "nav";
-@import "home";
 @import "page";
 @import "about";

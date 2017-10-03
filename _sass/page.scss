@@ -6,9 +6,9 @@
 
 .content {
   padding-top: $nav-font-size * 2.5;
-  padding-left: $view-padding * 2;
-  padding-right: $view-padding * 2;
   padding-bottom: $nav-font-size * 2.5;
+  padding-left: $view-padding * 1.5;
+  padding-right: $view-padding * 1.5;
 
   p {
     margin-bottom: 1em;
@@ -28,10 +28,11 @@
     }
 
     &:hover {
-      color: $href-color;
+      color: $href-hover-color;
     }
   }
 
+  /*
   .opposite a {
     color: $href-color;
     text-decoration: none;
@@ -43,6 +44,28 @@
 
     &:hover {
       color: $href-alt-color;
+    }
+  }
+  */
+
+
+  .slideshowParent {
+    .slideshowContainer {
+      /* centering slideshow image within its parent container */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 80vh;
+      //height: property-value(height, #slideshowParent) - $nav-font-size;
+      overflow: hidden;
+
+      .mySlides {
+
+        img {
+          width: 100%;
+          display: inline-block;
+        }
+      }
     }
   }
 
