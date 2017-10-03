@@ -1,5 +1,4 @@
 .caption {
-  //font-size: $small-font-size;
   color: $sub-color;
 }
 
@@ -12,7 +11,6 @@
   align-items: center;
 
   .slideshowParent {
-
     .slideshowContainer {
       /* centering slideshow image within its parent container */
       display: flex;
@@ -20,7 +18,6 @@
       align-items: center;
       height: 80vh;
       overflow: hidden;
-
       .mySlides {
         img {
           width: 100%;
@@ -37,7 +34,6 @@
       height: 80vh;
       overflow-x: hidden;
       overflow-y: scroll;
-
       .mySlides {
         img {
           width: 100%;
@@ -45,9 +41,9 @@
         }
       }
     }
-
   }
 }
+
 
 .content {
   padding-top: $nav-font-size * 4.5;
@@ -88,32 +84,52 @@
   }
 
   .grid-elements {
-    text-align: center;
-  }
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    align-content: flex-start;
 
-  .work-container {
-    width: 45%;
-    display: inline-block;
-    //margin: 0.5em;
-
-    .works-image {
-      height: 100%;
+    .work-container {
       width: 100%;
-    }
+      img {
+        width: 100%;
+        height: 100%;
+        filter: grayscale(100%);
+        -webkit-filter: grayscale(100%); /* CSS for Webkit Browsers */
+        filter: url(/elements/grayscale.svg#desaturate); /* Firefox 4-34 */
+        filter: gray;  /* Internet Explorer IE6-9 */
+        -webkit-filter: grayscale(1); /* Old WebKit Browsers */
+        &:hover {
+          filter: none;
+          -webkit-filter: grayscale(0); /* Old WebKit */
+          filter: grayscale(0%);
+        }
 
-    .project-title {
-      font-size: $work-tag-size;
-      float: left;
-      text-transform: uppercase;
+      }
+      .project-title {
+        font-size: $work-tag-size + 6;
+        //float: left;
+      }
+      .project-tags {
+        font-size: $work-tag-size;
+        //float: right;
+        text-transform: uppercase;
+      }
     }
+    @media screen and (min-width: 600px) {
+      .work-container {
+        width: 47%;
+      }
+    }
+    @media screen and (min-width: 1000px) {
+      .work-container {
+        //width: calc(100% / 3) - 4;
+        width: 31%;
+      }
+}
 
-    .project-tags {
-      font-size: $work-tag-size;
-      float: right;
-      text-transform: uppercase;
-    }
   }
-
 }
 
 /* for posts on the process blog page */

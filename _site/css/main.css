@@ -125,21 +125,41 @@ a {
     .content .opposite a:hover {
       color: red; }
   .content .grid-elements {
-    text-align: center; }
-  .content .work-container {
-    width: 45%;
-    display: inline-block; }
-    .content .work-container .works-image {
-      height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    align-content: flex-start; }
+    .content .grid-elements .work-container {
       width: 100%; }
-    .content .work-container .project-title {
-      font-size: 13px;
-      float: left;
-      text-transform: uppercase; }
-    .content .work-container .project-tags {
-      font-size: 13px;
-      float: right;
-      text-transform: uppercase; }
+      .content .grid-elements .work-container img {
+        width: 100%;
+        height: 100%;
+        filter: grayscale(100%);
+        -webkit-filter: grayscale(100%);
+        /* CSS for Webkit Browsers */
+        filter: url(/elements/grayscale.svg#desaturate);
+        /* Firefox 4-34 */
+        filter: gray;
+        /* Internet Explorer IE6-9 */
+        -webkit-filter: grayscale(1);
+        /* Old WebKit Browsers */ }
+        .content .grid-elements .work-container img:hover {
+          filter: none;
+          -webkit-filter: grayscale(0);
+          /* Old WebKit */
+          filter: grayscale(0%); }
+      .content .grid-elements .work-container .project-title {
+        font-size: 19px; }
+      .content .grid-elements .work-container .project-tags {
+        font-size: 13px;
+        text-transform: uppercase; }
+    @media screen and (min-width: 600px) {
+      .content .grid-elements .work-container {
+        width: 47%; } }
+    @media screen and (min-width: 1000px) {
+      .content .grid-elements .work-container {
+        width: 31%; } }
 
 /* for posts on the process blog page */
 .post-content img {

@@ -3,24 +3,24 @@ layout: default
 ---
 
 <div class="content">
-  <div class="opposite grid-elements">
+  <div class="grid-elements">
 
   {% assign works = site.works | sort: 'date' | reverse %}
-
     {% for work in works %}
       <div class="work-container">
+
         <a href="{{work.url}}">
-          <div class=""><img class="works-image" src="{{ work.img }}"></div>
+          <img src="{{ work.img }}">
           <div class="project-title">{{ work.title }}</div>
         </a>
+        <div class="project-title">{{ work.detail }}</div>
 
         {% assign tags = work.tags %}
           {% for tag in tags %}
-          <div class="project-tags">&nbsp;&nbsp;&nbsp;<a href="">{{ tag }}</a></div>
+          <div class="project-tags opposite"><a href="">{{ tag }}</a></div>
           {% endfor %}
 
       </div>
-
     {% endfor %}
 
   </div>
