@@ -46,7 +46,7 @@ a {
 
 .nav {
   font-family: "neetasface", serif;
-  font-size: 40px;
+  font-size: 30px;
   margin: 0;
   /*line-height: 1em;*/ }
 
@@ -102,8 +102,8 @@ a {
       display: inline-block; }
 
 .content {
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 75px;
+  padding-bottom: 75px;
   padding-left: 7.5vw;
   padding-right: 7.5vw;
   /*
