@@ -69,7 +69,9 @@ a {
   padding-bottom: 10px; }
 
 .caption {
-  color: gray; }
+  font-size: 18px;
+  color: gray;
+  margin-top: -1.5em; }
 
 .hovermq .content .grid-elements .work-container img {
   filter: grayscale(100%);
@@ -111,6 +113,10 @@ a {
       width: 100%;
       display: inline-block; }
 
+@media screen and (max-width: 600px) {
+  .home {
+    padding-left: 5vw;
+    padding-right: 5vw; } }
 .content {
   padding-top: 135px;
   padding-bottom: 135px;
@@ -167,6 +173,12 @@ a {
       .content .grid-elements .work-container {
         width: 31%; } }
 
+@media screen and (max-width: 600px) {
+  .content {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: 5vw;
+    padding-right: 5vw; } }
 /* for posts on the process blog page */
 .post-content img {
   display: block;
