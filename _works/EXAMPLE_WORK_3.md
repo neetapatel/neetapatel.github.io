@@ -3,6 +3,7 @@ layout: work
 date: 2016-01-09
 
 title: "Work Example 3"
+slug: "work-three"
 sub: "An example work page by p.youth language"
 detail: "One sentence detail about the work. On occasion I might even have two."
 
