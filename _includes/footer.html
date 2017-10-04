@@ -1,6 +1,6 @@
 <footer>
   <nav class="nav {% if page.url contains "/works" %}opposite{% endif %}">
-    <a href="/process" class="nav-bottom-left">process</a>
-    <a href="/about" class="nav-bottom-right">about</a>
+    <a href="/process" class="nav-bottom-left {% if page.url contains "/process" %}selected{% endif %}">process</a>
+    <a href="/about" class="nav-bottom-right {% if page.url contains "/about" %}selected{% endif %}">about</a>
   </nav>
 </footer>

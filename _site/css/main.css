@@ -37,6 +37,9 @@ a {
   a:hover {
     color: red; }
 
+.selected {
+  color: red; }
+
 .nav {
   font-family: "neetasface", serif;
   font-size: 30px;
