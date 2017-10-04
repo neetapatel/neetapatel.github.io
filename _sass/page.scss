@@ -2,6 +2,14 @@
   color: $sub-color;
 }
 
+.hovermq .content .grid-elements .work-container img {
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%); /* CSS for Webkit Browsers */
+  filter: url(/elements/grayscale.svg#desaturate); /* Firefox 4-34 */
+  filter: gray;  /* Internet Explorer IE6-9 */
+  -webkit-filter: grayscale(1); /* Old WebKit Browsers */
+}
+
 .home {
   height: 100%;
   padding-left: $view-padding * 2;
@@ -98,7 +106,7 @@
       //display: flex;
       //flex-flow: column wrap;
       width: 100%;
-      
+
       margin-right: $frame-padding;
       margin-left: $frame-padding;
       margin-bottom: $frame-padding * 3;
@@ -107,26 +115,19 @@
 
       img {
         width: 100%;
-        filter: grayscale(100%);
-        -webkit-filter: grayscale(100%); /* CSS for Webkit Browsers */
-        filter: url(/elements/grayscale.svg#desaturate); /* Firefox 4-34 */
-        filter: gray;  /* Internet Explorer IE6-9 */
-        -webkit-filter: grayscale(1); /* Old WebKit Browsers */
         &:hover {
           filter: none;
           -webkit-filter: grayscale(0); /* Old WebKit */
           filter: grayscale(0%);
         }
+      }
 
-      }
       .project-title {
-        font-size: $work-tag-size + 6;
-        //float: left;
+        font-size: $small-font-size;
+        padding-top: $frame-padding;
       }
-      .project-tags {
-        font-size: $work-tag-size;
-        //float: right;
-        text-transform: uppercase;
+      .project-subtitle {
+        font-size: $small-font-size;
       }
     }
     @media screen and (min-width: 600px) {
@@ -136,7 +137,6 @@
     }
     @media screen and (min-width: 1000px) {
       .work-container {
-        //width: calc(100% / 3) - 4;
         width: 31%;
       }
     }

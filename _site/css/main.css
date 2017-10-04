@@ -17,8 +17,7 @@ dl, dd, ol, ul, figure {
 
 /* Basic styling */
 html {
-  height: 100%;
-  /*cursor: crosshair;*/ }
+  height: 100%; }
 
 body {
   height: 100%;
@@ -71,6 +70,17 @@ a {
 
 .caption {
   color: gray; }
+
+.hovermq .content .grid-elements .work-container img {
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+  /* CSS for Webkit Browsers */
+  filter: url(/elements/grayscale.svg#desaturate);
+  /* Firefox 4-34 */
+  filter: gray;
+  /* Internet Explorer IE6-9 */
+  -webkit-filter: grayscale(1);
+  /* Old WebKit Browsers */ }
 
 .home {
   height: 100%;
@@ -139,26 +149,17 @@ a {
       margin-bottom: 30px;
       flex-grow: 1; }
       .content .grid-elements .work-container img {
-        width: 100%;
-        filter: grayscale(100%);
-        -webkit-filter: grayscale(100%);
-        /* CSS for Webkit Browsers */
-        filter: url(/elements/grayscale.svg#desaturate);
-        /* Firefox 4-34 */
-        filter: gray;
-        /* Internet Explorer IE6-9 */
-        -webkit-filter: grayscale(1);
-        /* Old WebKit Browsers */ }
+        width: 100%; }
         .content .grid-elements .work-container img:hover {
           filter: none;
           -webkit-filter: grayscale(0);
           /* Old WebKit */
           filter: grayscale(0%); }
       .content .grid-elements .work-container .project-title {
-        font-size: 19px; }
-      .content .grid-elements .work-container .project-tags {
-        font-size: 13px;
-        text-transform: uppercase; }
+        font-size: 18px;
+        padding-top: 10px; }
+      .content .grid-elements .work-container .project-subtitle {
+        font-size: 18px; }
     @media screen and (min-width: 600px) {
       .content .grid-elements .work-container {
         width: 40%; } }
