@@ -197,7 +197,8 @@ a {
 .work-content img {
   width: 100%;
   height: auto;
-  align-self: center; }
+  align-self: center;
+  display: block; }
 
 .caption {
   font-size: 18px;
