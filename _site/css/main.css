@@ -71,12 +71,6 @@ a {
   padding-right: 10px;
   padding-bottom: 10px; }
 
-.caption {
-  font-size: 18px;
-  color: gray;
-  margin-top: -1.5em;
-  margin-bottom: 7.5vw; }
-
 .hovermq .content .grid-elements .work-container img {
   filter: grayscale(100%);
   -webkit-filter: grayscale(100%);
@@ -103,8 +97,7 @@ a {
     height: 80vh;
     overflow: hidden; }
     .home .slideshowParent .slideshowContainer .mySlides img {
-      width: 100%;
-      display: inline-block; }
+      width: 100%; }
   .home .slideshowParent .slideshowContainer-process {
     /* centering slideshow image within its parent container */
     display: flex;
@@ -114,8 +107,7 @@ a {
     overflow-x: hidden;
     overflow-y: scroll; }
     .home .slideshowParent .slideshowContainer-process .mySlides img {
-      width: 100%;
-      display: inline-block; }
+      width: 100%; }
 
 @media screen and (max-width: 600px) {
   .home {
@@ -203,7 +195,10 @@ a {
     color: gray; }
 
 .work-content img {
-  margin-top: 7.5vw;
   width: 100%;
   height: auto;
   align-self: center; }
+
+.caption {
+  font-size: 18px;
+  color: gray; }

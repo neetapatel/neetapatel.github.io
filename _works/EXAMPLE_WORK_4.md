@@ -18,13 +18,17 @@ Etiam ac arcu ac ante egestas pellentesque at et risus. Fusce vel lorem dolor. E
 ![Plan Quarterly](/img/works/example/ex4.jpg)
 
 ![detail](/img/works/example/plan_detail.jpg)
-* {:.caption}caption potential here
+
+caption potential here
 
 ![spine](/img/works/example/plan_spine.jpg)
-* {:.caption}look at these lit spines
+
+look at these lit spines
 
 ![spread1](/img/works/example/spread1.jpg)
-* {:.caption}that's the hand of p.youth language
+
+that's the hand of p.youth language
 
 ![spread2](/img/works/example/spread2.jpg)
-* {:.caption}here's to you, siiiid robinson
+
+here's to you, siiiid robinson
