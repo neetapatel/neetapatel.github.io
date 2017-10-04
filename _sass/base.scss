@@ -29,6 +29,12 @@ body {
   color: $base-color;
 }
 
+@media screen and (max-width: 600px) {
+  body {
+    font-size: $small-font-size;
+  }
+}
+
 a {
   color: $href-color;
   text-decoration: none;
