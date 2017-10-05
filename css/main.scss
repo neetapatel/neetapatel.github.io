@@ -6,19 +6,12 @@
 
 @mixin text-select {
   &::-moz-selection {
-    color: red;
+    background: red;
+    color: white;
   }
   &::selection {
-    color: red;
-  }
-}
-
-@mixin anchor-select {
-  &::-moz-selection {
-    color: black;
-  }
-  &::selection {
-    color: black;
+    background: red;
+    color: white;
   }
 }
 
