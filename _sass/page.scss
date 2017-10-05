@@ -132,6 +132,7 @@
       .project-subtitle {
         @include text-select;
         font-size: $small-font-size;
+        color: $sub-color;
       }
     }
 

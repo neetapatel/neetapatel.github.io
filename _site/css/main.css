@@ -210,7 +210,8 @@ a {
           background: red;
           color: white; }
       .content .grid-elements .work-container .project-subtitle {
-        font-size: 18px; }
+        font-size: 18px;
+        color: gray; }
         .content .grid-elements .work-container .project-subtitle::-moz-selection {
           background: red;
           color: white; }
