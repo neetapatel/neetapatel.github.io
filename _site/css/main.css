@@ -42,14 +42,17 @@ a {
 .nav {
   font-family: "neetasface", serif;
   font-size: 30px;
-  margin: 0;
-  /*line-height: 1em;*/ }
+  margin: 0; }
 
 .nav-top-left {
   position: fixed;
   z-index: 99;
   top: 0;
   padding-left: 10px; }
+  .nav-top-left::-moz-selection {
+    color: red; }
+  .nav-top-left::selection {
+    color: red; }
 
 .nav-top-right {
   position: fixed;
@@ -57,6 +60,10 @@ a {
   right: 0;
   top: 0;
   padding-right: 10px; }
+  .nav-top-right::-moz-selection {
+    color: red; }
+  .nav-top-right::selection {
+    color: red; }
 
 .nav-bottom-left {
   position: fixed;
@@ -64,6 +71,10 @@ a {
   bottom: 0;
   padding-left: 10px;
   padding-bottom: 10px; }
+  .nav-bottom-left::-moz-selection {
+    color: red; }
+  .nav-bottom-left::selection {
+    color: red; }
 
 .nav-bottom-right {
   position: fixed;
@@ -72,6 +83,10 @@ a {
   right: 0;
   padding-right: 10px;
   padding-bottom: 10px; }
+  .nav-bottom-right::-moz-selection {
+    color: red; }
+  .nav-bottom-right::selection {
+    color: red; }
 
 .hovermq .content .grid-elements .work-container img {
   filter: grayscale(100%);
@@ -122,11 +137,23 @@ a {
   padding-right: 10vw; }
   .content p {
     margin-bottom: 1.5em; }
+    .content p::-moz-selection {
+      color: red; }
+    .content p::selection {
+      color: red; }
   .content ul {
     list-style: none; }
+    .content ul li::-moz-selection {
+      color: red; }
+    .content ul li::selection {
+      color: red; }
   .content a {
     color: red;
     text-decoration: none; }
+    .content a::-moz-selection {
+      color: black; }
+    .content a::selection {
+      color: black; }
     .content a:visited {
       color: red;
       text-decoration: none; }
@@ -162,8 +189,16 @@ a {
       .content .grid-elements .work-container .project-title {
         font-size: 18px;
         padding-top: 10px; }
+        .content .grid-elements .work-container .project-title::-moz-selection {
+          color: red; }
+        .content .grid-elements .work-container .project-title::selection {
+          color: red; }
       .content .grid-elements .work-container .project-subtitle {
         font-size: 18px; }
+        .content .grid-elements .work-container .project-subtitle::-moz-selection {
+          color: red; }
+        .content .grid-elements .work-container .project-subtitle::selection {
+          color: red; }
     @media screen and (min-width: 600px) {
       .content .grid-elements .work-container {
         width: 40%; } }
@@ -190,6 +225,10 @@ a {
   margin-bottom: 2em; }
   .work-heading .work-title {
     font-size: 60px; }
+    .work-heading .work-title::-moz-selection {
+      color: red; }
+    .work-heading .work-title::selection {
+      color: red; }
   @media screen and (max-width: 600px) {
     .work-heading .work-title {
       font-size: 38px; } }

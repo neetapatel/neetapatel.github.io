@@ -4,6 +4,24 @@
 
 @charset "utf-8";
 
+@mixin text-select {
+  &::-moz-selection {
+    color: red;
+  }
+  &::selection {
+    color: red;
+  }
+}
+
+@mixin anchor-select {
+  &::-moz-selection {
+    color: black;
+  }
+  &::selection {
+    color: black;
+  }
+}
+
 // Variables
 $base-font-family: "Univers55", Helvetica, Arial, sans-serif;
 
