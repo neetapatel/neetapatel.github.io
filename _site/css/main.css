@@ -190,9 +190,9 @@ a {
         font-size: 18px;
         padding-top: 10px; }
         .content .grid-elements .work-container .project-title::-moz-selection {
-          color: red; }
+          color: black; }
         .content .grid-elements .work-container .project-title::selection {
-          color: red; }
+          color: black; }
       .content .grid-elements .work-container .project-subtitle {
         font-size: 18px; }
         .content .grid-elements .work-container .project-subtitle::-moz-selection {

@@ -124,7 +124,7 @@
       }
 
       .project-title {
-        @include text-select;
+        @include anchor-select;
         font-size: $small-font-size;
         padding-top: $frame-padding;
       }
