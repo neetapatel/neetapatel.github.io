@@ -2,9 +2,9 @@
 layout: work
 date: 2015-11-01
 
-title: "Bridge"
+title: "bridge"
 slug: "bridge"
-sub: "A bridge built from ash wood and load-tested for VIS418: Extraordinary Processes"
+sub: "a bridge built from ash wood and load-tested for vis418: extraordinary processes"
 detail: "a bridge built from ash wood"
 
 img: "/img/works/ashwood/bridge.jpg"
@@ -14,4 +14,4 @@ divider: "|"
 
 to be filed
 
-![Bridge](/img/works/ashwood/bridge.jpg)
+![bridge](/img/works/ashwood/bridge.jpg)

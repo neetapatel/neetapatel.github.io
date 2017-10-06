@@ -1,18 +1,18 @@
 ---
 layout: work
-title: Hi
+title: hi
 ---
 
-My name is Neeta Patel. I am a graphic designer and artist.
+my name is neeta patel. i am a graphic designer and artist.
 
 ![me](/img/site/me.JPG)
 
-I am currently the 2016 – 17 Graphic Design Fellow at the [Frank Lloyd Wright Foundation](http://franklloydwright.org){:target="_blank"} at Taliesin West, located in Scottsdale, Arizona. Prior to this desert adventure, I received my undergraduate degree in [visual arts](http://vis.princeton.edu/){:target="_blank"} and computer science from Princeton University. To see what I've been up to most recently, visit my [process blog.](/process)
+i am currently the 2016 – 17 graphic design fellow at the [frank lloyd wright foundation](http://franklloydwright.org){:target="_blank"} at taliesin west, located in scottsdale, arizona. prior to this desert adventure, i received my undergraduate degree in [visual arts](http://vis.princeton.edu/){:target="_blank"} and computer science from princeton university. to see what i've been up to most recently, visit my [process blog.](/process)
 
-* [Twitter](http://twitter.com/npfluter){:target="_blank"}
-* [Instagram](http://instagram.com/npfluter/){:target="_blank"}
-* [LinkedIn](https://www.linkedin.com/in/neetapatel17/){:target="_blank"}
-* [Github](https://github.com/neetapatel/){:target="_blank"}
-* [Download CV](/neeta_patel_cv.pdf){:target="_blank"}
+* [twitter](http://twitter.com/npfluter){:target="_blank"}
+* [instagram](http://instagram.com/npfluter/){:target="_blank"}
+* [linkedin](https://www.linkedin.com/in/neetapatel17/){:target="_blank"}
+* [github](https://github.com/neetapatel/){:target="_blank"}
+* [download cv](/neeta_patel_cv.pdf){:target="_blank"}
 
 * npfluter [at] gmail [dot] com

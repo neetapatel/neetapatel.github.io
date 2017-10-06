@@ -114,6 +114,14 @@ a {
   display: flex;
   justify-content: center;
   align-items: center; }
+  .home .static-image-container .static-image {
+    height: 80vh;
+    overflow: hidden;
+    align-items: center;
+    justify-content: center;
+    display: flex; }
+    .home .static-image-container .static-image img {
+      width: 100%; }
   .home .slideshowParent .slideshowContainer {
     /* centering slideshow image within its parent container */
     display: flex;

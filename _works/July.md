@@ -2,16 +2,16 @@
 layout: work
 date: 2015-08-01
 
-title: "July"
+title: "july"
 slug: "july"
-sub: "Album cover design for St. Danger"
-detail: "album cover design for the band St. Danger"
+sub: "album cover design for st. danger"
+detail: "album cover design for the band st. danger"
 
-img: "/img/works/july/EP_cover.jpg"
+img: "/img/works/july/ep_cover.jpg"
 tags: []
 divider: "|"
 ---
 
 to be filed
 
-![July Cover](/img/works/july/EP_cover.jpg)
+![july cover](/img/works/july/EP_cover.jpg)

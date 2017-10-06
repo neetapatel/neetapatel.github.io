@@ -2,9 +2,9 @@
 layout: work
 date: 2016-05-01
 
-title: "Infinite Hourglass"
+title: "infinite hourglass"
 slug: "hourglass"
-sub: "An infinite hourglass designed and constructed for STC 209: Transformations in Engineering and the Arts"
+sub: "an infinite hourglass designed and constructed for stc209: transformations in engineering and the arts"
 detail: "an infinite hourglass"
 
 img: "/img/works/hourglass/cropped.jpg"
@@ -14,4 +14,4 @@ divider: "|"
 
 to be filed
 
-![Infinite Hourglass](/img/works/hourglass/cropped.jpg)
+![infinite hourglass](/img/works/hourglass/cropped.jpg)
