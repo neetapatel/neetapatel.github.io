@@ -15,4 +15,4 @@ i am currently the 2016 – 17 graphic design fellow at the [frank lloyd wright 
 * [github](https://github.com/neetapatel/){:target="_blank"}
 * [download cv](/neeta_patel_cv.pdf){:target="_blank"}
 
-* npfluter [at] gmail [dot] com
+npfluter [at] gmail [dot] com

@@ -26,16 +26,9 @@
 </header>
 
 
-    <div class="home">
-    <div class="slideshowParent" id="">
-  <div class="slideshowContainer">
-    <div class="mySlides">
-      <img src="/img/site/the_work.jpg">
-    </div>
-    <div class="mySlides">
-      <img src="/img/site/the_world.jpg">
-    </div>
-  </div>
+    <div class="content">
+    <div class="framed">
+  <img src="/img/site/the_work.jpg">
 </div>
 
 </div>
@@ -63,7 +56,7 @@
       slideIndex++;
       if (slideIndex > slides.length) {slideIndex = 1}
       slides[slideIndex-1].style.display = "block";
-      setTimeout(showSlides, 2000); // Change image every two seconds
+      setTimeout(showSlides, 1000); // Change image every two seconds
   }
 
 </script>

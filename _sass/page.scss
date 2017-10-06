@@ -6,58 +6,15 @@
   -webkit-filter: grayscale(1); /* Old WebKit Browsers */
 }
 
-.home {
-  height: 100%;
-  padding-left: $view-padding * 2;
-  padding-right: $view-padding * 2;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 
-  .static-image-container {
-    .static-image {
-      height: 80vh;
-      overflow: hidden;
-      align-items: center;
-      justify-content: center;
-      display: flex;
-      img {
-          width: 100%;
-      }
-    }
-  }
-
-  .slideshowParent {
-    .slideshowContainer {
-      /* centering slideshow image within its parent container */
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 80vh;
-      overflow: hidden;
+.slideshowParent {
+  .slideshowContainer-process {
       .mySlides {
-        img {
-          width: 100%;
-        }
       }
-    }
-
-    .slideshowContainer-process {
-      /* centering slideshow image within its parent container */
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 80vh;
-      overflow-x: hidden;
-      overflow-y: scroll;
-      .mySlides {
-        img {
-          width: 100%;
-        }
-      }
-    }
   }
 }
+
+
 
 @media screen and (max-width: 600px) {
   .home {
@@ -80,6 +37,7 @@
 
   ul {
     list-style: none;
+    margin-bottom: $line-break;
     li {
       @include text-select;
     }
@@ -95,6 +53,18 @@
     }
     &:hover {
       color: $href-color;
+    }
+  }
+
+  /* for home page */
+  .framed {
+    overflow: hidden;
+    max-height: calc(100vh - #{$bottom-image-frame});
+    display: flex;
+    align-items: center;
+    img {
+      max-width: 100%;
+      display: block;
     }
   }
 
@@ -116,16 +86,14 @@
     justify-content: space-between;
     align-items: baseline;
     align-content: flex-start;
+    margin-top: -$frame-padding * 6;
 
     .work-container {
-      width: 100%;
-      margin-right: $frame-padding;
-      margin-left: $frame-padding;
-      margin-bottom: $frame-padding * 6;
+      margin-top: $frame-padding * 6;
       flex-grow: 1;
 
       img {
-        width: 100%;
+        max-width: 100%;
         &:hover {
           filter: none;
           -webkit-filter: grayscale(0); /* Old WebKit */
@@ -148,13 +116,13 @@
 
     @media screen and (min-width: 600px) {
       .work-container {
-        width: 40%;
+        max-width: 45%;
       }
     }
 
     @media screen and (min-width: 1000px) {
       .work-container {
-        width: 31%;
+        max-width: 31%;
       }
     }
 
@@ -181,7 +149,7 @@
 
   img {
   display: block;
-  width: 100vw;
+  //width: 100vw;
   }
 
 }
@@ -203,13 +171,14 @@
   }
 
   .work-sub {
-    //font-size: $small-font-size;
     color: $sub-color;
   }
 
 }
 
 .work-content {
+
+  p:last-child { margin-bottom: 0 !important; }
 
   img {
     width: 100%;
@@ -222,6 +191,4 @@
 .caption {
   font-size: $small-font-size;
   color: $sub-color;
-  //margin-top: $line-break * -1;
-  //margin-bottom: $line-break;
 }

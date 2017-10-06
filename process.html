@@ -1,18 +1,22 @@
 ---
-layout: home
+layout: framed
 title: process
 ---
 
-<div class="slideshowParent">
-  <div class="slideshowContainer-process">
+<div class="framed">
 
-    {% assign posts = site.posts | sort: 'date' | reverse %}
+  <div class="slideshowParent">
+    <div class="slideshowContainer-process">
 
-    {% for post in posts %}
-    <div class="mySlides">
-      <img src="{{post.img}}">
+      {% for image in site.static_files %}
+        {% if image.path contains 'img/process' %}
+          <div class="mySlides">
+            <img src="{{ image.path }}" alt="image" />
+          </div>
+        {% endif %}
+      {% endfor %}
+
     </div>
-    {% endfor %}
-
   </div>
+
 </div>
