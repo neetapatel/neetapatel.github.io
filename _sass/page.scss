@@ -74,21 +74,18 @@
 
   a {
     @include text-select;
-
     color: $href-hover-color;
     text-decoration: none;
-
     &:visited {
       color: $href-hover-color;
       text-decoration: none;
     }
-
     &:hover {
       color: $href-color;
     }
   }
 
-  .opposite a {
+  .work-container a {
     color: $href-color;
     &:visited {
       color: $href-color;

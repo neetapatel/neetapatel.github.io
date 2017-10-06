@@ -173,11 +173,11 @@ a {
       text-decoration: none; }
     .content a:hover {
       color: black; }
-  .content .opposite a {
+  .content .work-container a {
     color: black; }
-    .content .opposite a:visited {
+    .content .work-container a:visited {
       color: black; }
-    .content .opposite a:hover {
+    .content .work-container a:hover {
       color: red; }
   .content .grid-elements {
     display: -webkit-flex;
