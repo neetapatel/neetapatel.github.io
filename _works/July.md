@@ -14,4 +14,4 @@ divider: "|"
 
 to be filed
 
-![july cover](/img/works/july/EP_cover.jpg)
+![july cover](/img/works/july/ep_cover.jpg)
