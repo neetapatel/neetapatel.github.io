@@ -3,12 +3,17 @@ layout: framed
 title: process
 ---
 
+{% for image in site.static_files %}
+  {% if image.path contains 'img/process' %}
+    <div class="mySlides">
+      <img src="{{ image.path }}" alt="image" />
+    </div>
+  {% endif %}
+{% endfor %}
 
-
-      {% for image in site.static_files %}
-        {% if image.path contains 'img/process' %}
-          <div class="mySlides">
-            <img src="{{ image.path }}" alt="image" />
-          </div>
-        {% endif %}
-      {% endfor %}
+<!-- Simple audio playback -->
+<audio
+  src="/img/site/clocks.aac"
+  loop="loop">
+  Your browser does not support the <code>audio</code> element.
+</audio>
