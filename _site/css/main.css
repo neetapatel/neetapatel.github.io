@@ -116,7 +116,8 @@ a {
   padding-bottom: 135px;
   padding-left: 10vw;
   padding-right: 10vw;
-  /* for home page */ }
+  /* for home page */
+  /* for process page */ }
   .content p {
     margin-bottom: 1.5em; }
     .content p::-moz-selection {
@@ -160,6 +161,19 @@ a {
       display: block;
       width: 100%;
       height: auto; }
+  .content .framed-process {
+    overflow: hidden;
+    height: calc(100vh - 270px);
+    display: flex;
+    align-items: center;
+    justify-content: center; }
+    @media screen and (max-width: 600px) {
+      .content .framed-process {
+        height: calc(100vh - 120px); } }
+    .content .framed-process img {
+      display: block;
+      height: 100%;
+      width: auto; }
   .content .work-container a {
     color: black; }
     .content .work-container a:visited {
