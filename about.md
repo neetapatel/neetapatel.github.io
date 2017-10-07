@@ -4,7 +4,7 @@ title: about
 ---
 
 <div class="framed about-image">
-  <img src="/img/site/me.jpg">
+  <img src="/img/site/me.JPG">
 </div>
 
 
