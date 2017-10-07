@@ -11,9 +11,9 @@ title: process
   {% endif %}
 {% endfor %}
 
-<!-- Simple audio playback -->
-<audio
-  src="/img/site/clocks.aac"
-  loop="loop">
-  Your browser does not support the <code>audio</code> element.
+<!-- audio playback -->
+<audio loop="loop" autoplay="autoplay">
+  <source src="/img/site/clocks.aac">
+  <source src="/img/site/clocks.ogg">
+  <source src="/img/site/clocks.mp3">
 </audio>

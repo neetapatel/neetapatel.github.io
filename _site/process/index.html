@@ -199,11 +199,11 @@
   
 
 
-<!-- Simple audio playback -->
-<audio
-  src="/img/site/clocks.aac"
-  loop="loop">
-  Your browser does not support the <code>audio</code> element.
+<!-- audio playback -->
+<audio loop="loop" autoplay="autoplay">
+  <source src="/img/site/clocks.aac">
+  <source src="/img/site/clocks.ogg">
+  <source src="/img/site/clocks.mp3">
 </audio>
 
 </div>
@@ -231,7 +231,7 @@
       slideIndex++;
       if (slideIndex > slides.length) {slideIndex = 1}
       slides[slideIndex-1].style.display = "block";
-      setTimeout(showSlides, 500); // Change image every two seconds
+      setTimeout(showSlides, 300); 
   }
 
 </script>
