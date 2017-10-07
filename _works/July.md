@@ -7,11 +7,11 @@ slug: "july"
 sub: "album cover design for st. danger"
 detail: "album cover design for the band st. danger"
 
-img: "/img/works/july/ep_cover.jpg"
+img: "/img/works/july/ep.jpg"
 tags: []
 divider: "|"
 ---
 
 to be filed
 
-![july cover](/img/works/july/ep_cover.jpg)
+![july cover](/img/works/july/ep.jpg)
