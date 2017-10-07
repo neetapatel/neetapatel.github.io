@@ -161,19 +161,15 @@ a {
       display: block;
       width: 100%;
       height: auto; }
-  .content .framed-process {
-    overflow: hidden;
-    height: calc(100vh - 270px);
-    display: flex;
-    align-items: center;
-    justify-content: center; }
-    @media screen and (max-width: 600px) {
-      .content .framed-process {
-        height: calc(100vh - 120px); } }
-    .content .framed-process img {
-      display: block;
-      height: 100%;
-      width: auto; }
+  .content .mySlides {
+    overflow: hidden; }
+    .content .mySlides img {
+      height: calc(100vh - 270px);
+      width: 100%;
+      object-fit: cover; }
+      @media screen and (max-width: 600px) {
+        .content .mySlides img {
+          height: calc(100vh - 120px); } }
   .content .work-container a {
     color: black; }
     .content .work-container a:visited {
