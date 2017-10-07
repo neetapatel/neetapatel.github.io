@@ -37,6 +37,8 @@ $frame-padding: 10px;
 $view-padding: 5vw;
 $line-break: 1.5em;
 $bottom-image-frame: ($nav-font-size * 4.5) * 2;
+$bottom-image-frame-mobile: ($nav-font-size * 2) * 2;
+
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "base";

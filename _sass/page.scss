@@ -60,11 +60,15 @@
   .framed {
     overflow: hidden;
     max-height: calc(100vh - #{$bottom-image-frame});
+    @media screen and (max-width: 600px) {
+      max-height: calc(100vh - #{$bottom-image-frame-mobile});
+    }
     display: flex;
     align-items: center;
     img {
-      max-width: 100%;
       display: block;
+      width: 100%;
+      height: auto;
     }
   }
 

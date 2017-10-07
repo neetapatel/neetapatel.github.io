@@ -153,9 +153,13 @@ a {
     max-height: calc(100vh - 270px);
     display: flex;
     align-items: center; }
+    @media screen and (max-width: 600px) {
+      .content .framed {
+        max-height: calc(100vh - 120px); } }
     .content .framed img {
-      max-width: 100%;
-      display: block; }
+      display: block;
+      width: 100%;
+      height: auto; }
   .content .work-container a {
     color: black; }
     .content .work-container a:visited {
