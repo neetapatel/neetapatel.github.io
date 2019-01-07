@@ -19,6 +19,7 @@
   padding-bottom: $nav-font-size * 4.5;
   padding-left: $view-padding * 2;
   padding-right: $view-padding * 2;
+  //display: flex;
 
   p {
     margin-bottom: $line-break;
@@ -62,7 +63,7 @@
     }
   }
 
-  /* for process page */
+    /* for process page */
   .mySlides {
     overflow: hidden;
     img {
@@ -75,7 +76,7 @@
     }
   }
 
-
+  /* for works page */
   .work-container a {
     color: $href-color;
     &:visited {
@@ -122,12 +123,14 @@
       }
     }
 
+    /* tablet friendly */
     @media screen and (min-width: 600px) {
       .work-container {
         max-width: 45%;
       }
     }
 
+    /* desktop friendly */
     @media screen and (min-width: 1000px) {
       .work-container {
         max-width: 31%;
@@ -136,6 +139,8 @@
 
   }
 }
+
+/* remove extra L/R margins for mobile */
 
 @media screen and (max-width: 600px) {
   .content {

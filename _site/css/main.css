@@ -117,7 +117,8 @@ a {
   padding-left: 10vw;
   padding-right: 10vw;
   /* for home page */
-  /* for process page */ }
+  /* for process page */
+  /* for works page */ }
   .content p {
     margin-bottom: 1.5em; }
     .content p::-moz-selection {
@@ -184,7 +185,9 @@ a {
     justify-content: space-between;
     align-items: baseline;
     align-content: flex-start;
-    margin-top: -60px; }
+    margin-top: -60px;
+    /* tablet friendly */
+    /* desktop friendly */ }
     .content .grid-elements .work-container {
       margin-top: 60px;
       flex-grow: 1; }
@@ -220,6 +223,7 @@ a {
       .content .grid-elements .work-container {
         max-width: 31%; } }
 
+/* remove extra L/R margins for mobile */
 @media screen and (max-width: 600px) {
   .content {
     padding-top: 60px;
