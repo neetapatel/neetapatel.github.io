@@ -7,7 +7,7 @@ slug: "tanizaki-cover"
 sub: "book cover"
 detail: "book cover"
 
-img: "/img/works/tanizaki_cover/tanizaki-cover.jpg"
+img: "/img/works/tanizaki_cover/tanizaki-cover-detail.jpg"
 tags: []
 divider: "|"
 ---
