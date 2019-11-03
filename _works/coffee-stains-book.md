@@ -16,6 +16,6 @@ a compilation of coffee stains made during the demise of my longtime espresso ma
 
 ![coffee book](/img/works/coffee_stains_book/cover.jpg)
 
-![coffee book](/img/works/coffee_stains_book/spine.jpg)
-
 ![coffee book](/img/works/coffee_stains_book/spread.jpg)
+
+![coffee book](/img/works/coffee_stains_book/spine.jpg)
