@@ -2,7 +2,7 @@
 layout: work
 date: 2018-07-01
 
-title: "st.danger covers"
+title: "st. danger covers"
 slug: "album covers"
 sub: "album artwork"
 detail: "album artwork"
@@ -20,4 +20,4 @@ album cover designs for indie rock band st. danger.
 
 ![time switch cover](/img/works/st_danger/time-switch-cover.jpg)
 
-photographs by doug wallack. [listen](https://stdanger.bandcamp.com){:target="_blank"} to st. danger. 
+photographs by doug wallack. [listen](https://stdanger.bandcamp.com){:target="_blank"} to st. danger.
