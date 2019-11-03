@@ -12,6 +12,8 @@ tags: []
 divider: "|"
 ---
 
-a book cover design for jun'ichirō tanizaki's essay on japanese aesthetics. photograph by [brandon o. scott](https://somaterraraum.tumblr.com){:target="_blank"}. 
+a book cover design for jun'ichirō tanizaki's essay on japanese aesthetics.
 
 ![tanizaki cover](/img/works/tanizaki_cover/tanizaki-cover.jpg)
+
+photograph by [brandon o. scott](https://somaterraraum.tumblr.com){:target="_blank"}. 
