@@ -2,7 +2,7 @@
 layout: work
 date: 2019-01-01
 
-title: "birthday greetings"
+title: "passing time"
 slug: "2019-birthdays"
 sub: "birthday cards"
 detail: "birthday cards"
