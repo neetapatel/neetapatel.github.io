@@ -7,15 +7,15 @@ slug: "ben-lily"
 sub: "website development"
 detail: "website development"
 
-img: "/img/works/ben-wedding-site/ben.jpg"
+img: "/img/works/ben-wedding-site/tout.jpg"
 tags: []
 divider: "|"
 ---
 
-i programmed this set of animated wedding websites. design by ben denzer. paintings by lily offit.
+i programmed this set of animated wedding websites. design by [ben denzer](https://bendenzer.com/){:target="_blank"}. paintings by [lily offit](https://cargocollective.com/lilyoffit){:target="_blank"}.
 
-[ben-lily.com](ben-lily.com){:target="_blank"}
-[lily-ben.com](lily-ben.com){:target="_blank"}
+[ben-lily.com](https://ben-lily.com){:target="_blank"}
+[lily-ben.com](https://lily-ben.com){:target="_blank"}
 
 ![ben website](/img/works/ben-wedding-site/ben.jpg)
 
