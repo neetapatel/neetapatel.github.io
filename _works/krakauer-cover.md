@@ -12,7 +12,7 @@ tags: []
 divider: "|"
 ---
 
-a book cover design for jon krakauer's book, into thin air, about the 1996 mt. everest disaster.
+a cover design for jon krakauer's book, into thin air, about the 1996 mt. everest disaster.
 
 ![krakauer cover](/img/works/krakauer_cover/krakauer-cover-full.jpg)
 
