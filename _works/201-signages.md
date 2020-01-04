@@ -12,6 +12,8 @@ tags: []
 divider: "|"
 ---
 
+messages broadcasted from my studio windows overlooking princeton's main street.
+
 ![signage](/img/works/201_signages/last-day.jpg)
 
 ![signage](/img/works/201_signages/open-studios.JPG)
