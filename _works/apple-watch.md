@@ -12,8 +12,6 @@ tags: []
 divider: "|"
 ---
 
-a proposed apple watch face design, produced for vis215, graphic design: interface, that asks the user to consider her relationship to time by visually tracking every instance in a 24-hour period that she checks the device.
+a proposed apple watch face design that asks the user to consider her relationship to time by visually tracking every instance in a 24-hour period that she checks the device.
 
 ![apple watch](/img/works/apple_watchface/runtime.mov)
-
-![apple watch](/img/works/apple_watchface/screenshot.jpg)
