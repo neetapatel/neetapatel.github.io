@@ -12,7 +12,9 @@ tags: []
 divider: "|"
 ---
 
-album cover designs for indie rock band st. danger. photographs by doug wallack. [listen](https://stdanger.bandcamp.com){:target="_blank"} to st. danger.
+album cover designs for indie rock band st. danger.
+
+photographs by doug wallack. [listen](https://stdanger.bandcamp.com){:target="_blank"} to st. danger.
 
 ![time switch cover](/img/works/st_danger/time-switch.png)
 

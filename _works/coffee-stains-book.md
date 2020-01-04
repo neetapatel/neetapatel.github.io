@@ -14,8 +14,10 @@ divider: "|"
 
 a compilation of coffee stains made during the demise of my longtime espresso machine.
 
-![coffee book](/img/works/coffee_stains_book/cover.jpg)
+![coffee book](/img/works/coffee_stains_book/coffee-stains-cover.jpg)
 
-![coffee book](/img/works/coffee_stains_book/spread.jpg)
+![coffee book](/img/works/coffee_stains_book/coffee-stains-stain-1.jpg)
 
-![coffee book](/img/works/coffee_stains_book/spine.jpg)
+![coffee book](/img/works/coffee_stains_book/coffee-stains-stain-2.jpg)
+
+![coffee book](/img/works/coffee_stains_book/coffee-stains-stain-3.jpg)
