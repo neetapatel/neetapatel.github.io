@@ -18,9 +18,9 @@ divider: "|"
 
 ![alphabet book](/img/works/alphabet_book/a-spread.png)
 
-![alphabet book](/img/works/alphabet_book/o-spread.png)
+![alphabet book](/img/works/alphabet_book/o-spread.jpg)
 
-![alphabet book](/img/works/alphabet_book/z-spread.png)
+![alphabet book](/img/works/alphabet_book/z-spread.jpg)
 
 ![alphabet book](/img/works/alphabet_book/book-pile.jpg)
 
