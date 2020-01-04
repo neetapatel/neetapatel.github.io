@@ -4,14 +4,14 @@ date: 2016-05-01
 
 title: "infinite hourglass"
 slug: "hourglass"
-sub: "an infinite hourglass designed and constructed for stc209: transformations in engineering and the arts"
-detail: "an infinite hourglass"
+sub: "useless timepiece"
+detail: "useless timepiece"
 
-img: "/img/works/hourglass/cropped.jpg"
+img: "/img/works/hourglass/hourglass-tout.jpg"
 tags: []
 divider: "|"
 ---
 
-to be filed
+an attempt at building an "infinite" hourglass in which the timekeeping substance (here, water) is continuously drawn back to the top of the clock at a constant rate. constructed as a final project for the course stc209: transformations in engineering and the arts.
 
-![infinite hourglass](/img/works/hourglass/cropped.jpg)
+![infinite hourglass](/img/works/hourglass/hourglass.jpg)
