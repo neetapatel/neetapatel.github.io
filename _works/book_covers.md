@@ -18,7 +18,7 @@ book cover design for jun'ichirō tanizaki's essay on japanese aesthetics. photo
 
 —
 
-cover design for john mcphee's 1968 book about the new jersey pine barrens, its history, its people, and its trees. despite having grown up in new jersey, reading this book is what motivated me to finally visit the barrens.
+cover design for john mcphee's 1968 book about the new jersey pine barrens, its history, its people, and its trees. despite having grown up in new jersey, reading this book is what motivated me to finally visit the barrens. (2019)
 
 more pine barrens fun: [here](http://www.princetonmagazine.com/in-the-pinelands-national-reserve/){:target="_blank"}, [here](https://www.newyorker.com/magazine/1967/11/25/the-pine-barrens){:target="_blank"}, and [here](https://pinelandsalliance.org){:target="_blank"}.
 
@@ -26,12 +26,12 @@ more pine barrens fun: [here](http://www.princetonmagazine.com/in-the-pinelands-
 
 —
 
-cover design for jon krakauer's book, into thin air, about the 1996 mt. everest disaster. photograph: google earth.
+cover design for jon krakauer's book, into thin air, about the 1996 mt. everest disaster. photograph: google earth. (2018)
 
 ![krakauer cover](/img/works/book_covers/krakauer_cover/krakauer-cover-full.jpg)
 
 —
 
-book cover design for mario varga llosa's novel, aunt julia and the scriptwriter. with this illustration, i hoped to convey the frenzied nature of the titular scriptwriter and the vibrant, coastal atmosphere of lima, peru. 
+book cover design for mario varga llosa's novel, aunt julia and the scriptwriter. with this illustration, i hoped to convey the frenzied nature of the titular scriptwriter and the vibrant, coastal atmosphere of lima, peru. (2018)
 
 ![llosa cover](/img/works/book_covers/llosa_cover/llosa-cover-full.jpg)
