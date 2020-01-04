@@ -12,7 +12,7 @@ tags: []
 divider: "|"
 ---
 
-i typeset the weather forecast every morning and posted them in the art building's elevator.
+i typeset the daily weather forecast for a year and posted the result in the art building's elevator each morning.
 
 ![weather book](/img/works/weather_book/in-situ.jpg)
 
@@ -22,7 +22,7 @@ this accordion-fold artist's book collects the output of the year-long experimen
 
 ![weather book](/img/works/weather_book/unfolding.jpg)
 
-i also produces this project as a set of daily newspapers for a while.
+i also produced this project as a set of daily newspapers for a while.
 
 ![weather book](/img/works/weather_newspapers/bundle.jpg)
 
