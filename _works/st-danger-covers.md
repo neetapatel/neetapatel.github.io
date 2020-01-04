@@ -12,12 +12,10 @@ tags: []
 divider: "|"
 ---
 
-album cover designs for indie rock band st. danger.
+album cover designs for indie rock band st. danger. photographs by doug wallack. [listen](https://stdanger.bandcamp.com){:target="_blank"} to st. danger.
 
 ![time switch cover](/img/works/st_danger/time-switch-cover.jpg)
 
 ![cant feel it cover](/img/works/st_danger/i-cant-feel-it-cover.jpg)
 
-![july cover](/img/works/st_danger/july-cover.jpg)
-
-photographs by doug wallack. [listen](https://stdanger.bandcamp.com){:target="_blank"} to st. danger.
+![july cover](/img/works/st_danger/july_EP_cover.png)
