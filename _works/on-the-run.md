@@ -14,8 +14,6 @@ divider: "|"
 
 graphic design, research, and construction of a book about running culture in and around princeton town, produced for vis215, graphic design: new jersey, a course centered on investigating place through the tools of design.
 
-![running book](/img/works/on_the_princeton_run/spread.jpg)
-
 ![running book](/img/works/on_the_princeton_run/spread-1.jpg)
 
 ![running book](/img/works/on_the_princeton_run/spread-2.jpg)
