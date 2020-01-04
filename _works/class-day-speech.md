@@ -1,6 +1,6 @@
 ---
 layout: work
-date: 2015-05-30
+date: 2016-05-30
 
 title: "class day speech"
 slug: "class-day-speech"
