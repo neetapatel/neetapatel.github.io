@@ -21,3 +21,5 @@ i tracked one week's worth of my regular news consumption and then designed and 
 ![newsbook](/img/works/newsbook/spread-1.jpg)
 
 ![newsbook](/img/works/newsbook/spread-2.jpg)
+
+![newsbook](/img/works/newsbook/spread-3.jpg)
