@@ -4,8 +4,8 @@ date: 2019-08-01
 
 title: "in loving memory of delonghi ec155"
 slug: "coffee-stains"
-sub: "an artist's book"
-detail: "an artist's book"
+sub: "artist's book"
+detail: "artist's book"
 
 img: "/img/works/coffee_stains_book/single-stain.jpg"
 tags: []
