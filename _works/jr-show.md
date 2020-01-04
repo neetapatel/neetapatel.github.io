@@ -7,7 +7,7 @@ slug: "junior-thesis"
 sub: "group show"
 detail: "group show"
 
-img: "/img/works/ashwood/jr-show-tout.jpg"
+img: "/img/works/junior_show/jr-show-tout.jpg"
 tags: []
 divider: "|"
 ---
