@@ -14,14 +14,16 @@ divider: "|"
 
 containing text excerpted from the short story “franny and zooey” by j.d. salinger, these letters were printed, sealed, and distributed underneath princeton dorm room doors as a study in circulation and disillusionment for vis217, graphic design: circulation.
 
-![franny zooey Letter](/img/works/franny_zooey/letter-full.jpg)
+![franny zooey letter](/img/works/franny_zooey/letter-full.jpg)
 
-![franny zooey Letter](/img/works/franny_zooey/process-1.jpg)
+some process:
 
-![franny zooey Letter](/img/works/franny_zooey/process-2.jpg)
+![franny zooey letter](/img/works/franny_zooey/process-1.jpg)
 
-![franny zooey Letter](/img/works/franny_zooey/process-3.jpg)
+![franny zooey letter](/img/works/franny_zooey/process-2.jpg)
 
-![franny zooey Letter](/img/works/franny_zooey/process-4.jpg)
+![franny zooey letter](/img/works/franny_zooey/process-3.jpg)
 
-![franny zooey Letter](/img/works/franny_zooey/process-5.jpg)
+![franny zooey letter](/img/works/franny_zooey/process-4.jpg)
+
+![franny zooey letter](/img/works/franny_zooey/process-5.jpg)
