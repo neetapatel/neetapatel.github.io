@@ -14,9 +14,9 @@ divider: "|"
 
 ![desert-themed holiday card](/img/works/greeting_cards/goodman_holiday_card/goodman-card-front.png)
 
-illustration for a desert-themed winter holiday greeting card. (2019)
+illustration for a desert-themed winter greeting card. (2019)
 
-•
+—
 
 ![birthday cards](/img/works/greeting_cards/2019_birthday_cards/single-card.jpg)
 
@@ -24,7 +24,7 @@ illustration for a desert-themed winter holiday greeting card. (2019)
 
 edition of 60 birthday cards, and a meditation on passing time. (2019)
 
-•
+—
 
 ![raksha bandhan cards](/img/works/greeting_cards/raksha_bandhan/raksha-bandhan-grid.jpg)
 
@@ -34,9 +34,9 @@ raksha bandhan is a hindu holiday that celebrates sibling relationships. i desig
 
 ![raksha bandhan cards](/img/works/greeting_cards/raksha_bandhan/raksha-bandhan-rakhis.jpg)
 
-•
+—
 
-illustration and design for a holiday card for the frank lloyd wright foundation. (2016)
+holiday card for the frank lloyd wright foundation. (2016)
 
 ![holiday card](/img/works/greeting_cards/flwf_holiday_card/flwf_holiday_card_full.png)
 
