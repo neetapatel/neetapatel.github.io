@@ -16,8 +16,8 @@ i programmed this set of animated wedding websites. design by [ben denzer](https
 
 [ben-lily.com](https://ben-lily.com){:target="_blank"}
 
-[lily-ben.com](https://lily-ben.com){:target="_blank"}
-
 ![ben website](/img/works/ben-wedding-site/ben.jpg)
+
+[lily-ben.com](https://lily-ben.com){:target="_blank"}
 
 ![ben website](/img/works/ben-wedding-site/lily.jpg)
