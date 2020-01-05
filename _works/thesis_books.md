@@ -32,9 +32,21 @@ during my junior and senior years at princeton, while i was building an art show
 
 "sweet dream & flying machines: two tales of a once and future princeton" by douglas wallack, submitted to the history department. on the unraveling of the university’s conservative ethos as understood through two projects in student life at princeton in the ‘70s.
 
-![spread](/img/works/thesis_books/bubble_dorm/doug-thesis.mp4)
+![spread](/img/works/thesis_books/bubble_dorm/cover.jpg)
+
+![spread](/img/works/thesis_books/bubble_dorm/title-page.jpg)
+
+![spread](/img/works/thesis_books/bubble_dorm/bubble-dorm.jpg)
+
+![spread](/img/works/thesis_books/bubble_dorm/pullout.jpg)
+
+![spread](/img/works/thesis_books/bubble_dorm/text.jpg)
+
+![spread](/img/works/thesis_books/bubble_dorm/back-cover.jpg)
 
 ![spread](/img/works/thesis_books/bubble_dorm/inspiration.jpg)
+
+![spread](/img/works/thesis_books/bubble_dorm/at-work.jpg)
 
 —
 
