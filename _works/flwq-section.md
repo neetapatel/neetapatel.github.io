@@ -1,17 +1,37 @@
 ---
 layout: work
-date: 2017-09-01
+date: 2017-11-01
 
-title: "frank lloyd wright quarterly: section"
-slug: "flwq-section"
-sub: "vol. 28 no. 3"
-detail: "graphic design and creative direction"
+title: "frank lloyd wright quarterly"
+slug: "flwq"
+sub: "magazine design"
+detail: "magazine design"
 
-img: "/img/works/flwq_section/section.jpg"
+img: "/img/works/flwq/plan-detail-1.jpg"
 tags: []
 divider: "|"
 ---
 
-to be filed
+graphic design and creative direction of six issues of the frank lloyd wright foundation's [quarterly magazine](https://franklloydwright.org/quarterly/){:target="blank"}, including a special four-issue collector's set commemorating the architect's 150th anniversary.
 
-![section quarterly](/img/works/flwq_section/section.jpg)
+![quarterly](/img/works/flwq/150th-set.jpg)
+
+![quarterly](/img/works/flwq/elevation-spread-1.jpg)
+
+![quarterly](/img/works/flwq/elevation-spread-2.jpg)
+
+![quarterly](/img/works/flwq/elevation-spread-3.jpg)
+
+the spines of the four special edition issues each display a piece of a puzzle. stacked together, they will create a hidden message.
+
+![quarterly](/img/works/flwq/section-spines.jpg)
+
+![quarterly](/img/works/flwq/section-detail.jpg)
+
+![quarterly](/img/works/flwq/plan-detail-2.jpg)
+
+![quarterly](/img/works/flwq/design-legacy.jpg)
+
+![quarterly](/img/works/flwq/thou-america.jpg)
+
+![quarterly](/img/works/flwq/taliesin-west.jpg)
