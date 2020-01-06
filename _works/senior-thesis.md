@@ -42,8 +42,6 @@ i made a series of daily pour over coffee paintings over the five days of the sh
 
 ![senior thesis](/img/works/senior_thesis/coffee-paintings-2.jpg)
 
-![senior thesis](/img/works/senior_thesis/coffee-painting.jpg)
-
 also on display was a series of photographs of black squares in the real world:
 
 ![senior thesis](/img/works/senior_thesis/black-sqs.jpg)
@@ -69,7 +67,5 @@ some process:
 ![senior thesis](/img/works/senior_thesis/process-3.jpg)
 
 some press:
-
-* [press release](https://arts.princeton.edu/events/a-senior-art-show-by-neeta-patel-6/2016-03-21/){target:"_blank"}
-
-* [nassau weekly review](http://nassauweekly.com/neeta-patel-time-is-a-floating-point-number/){target:"_blank"}
+* [press release](https://arts.princeton.edu/events/a-senior-art-show-by-neeta-patel-6/2016-03-21/){:target="_blank"}
+* [nassau weekly review](http://nassauweekly.com/neeta-patel-time-is-a-floating-point-number/){:target="_blank"}
