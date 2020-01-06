@@ -19,6 +19,6 @@ i currently work in the art department at [the new yorker](https://www.newyorker
 * [github](https://github.com/neetapatel/){:target="_blank"}
 * [are.na](https://www.are.na/neeta-patel){:target="_blank"}
 * [goodreads](https://www.goodreads.com/user/show/11214437-neeta){:target="_blank"}
-* [cv](https://docs.google.com/spreadsheets/d/1IxyxEU7Us4ISp5O4vcRGq3hPhq_LUwvX5CD5pqfYmy4/edit?usp=sharing){:target="_blank"}
+* [cv](/files/neeta_patel-cv.pdf){:target="_blank"}
 
 neetapatel17 [at] gmail [dot] com
