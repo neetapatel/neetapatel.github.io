@@ -20,6 +20,6 @@ design and typography for the new yorker’s june 10 & 17, 2019 coverflap—a sh
 
 ![coverflap](/img/works/tny_design/tny-coverflap.jpg)
 
-design and art direction for the 2019 new yorker desk diary ad. illustrations by nicholas blechman; photograph by jens mortensen:
+design and art direction for the 2019 new yorker desk diary ad. illustrations by nicholas blechman and photograph by jens mortensen:
 
 ![diary ad](/img/works/tny_design/tny-diary-ad.jpg)
