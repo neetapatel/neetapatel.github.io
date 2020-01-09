@@ -32,6 +32,6 @@ cover design for jon krakauer's book, into thin air, about the 1996 mt. everest 
 
 —
 
-book cover design for mario varga llosa's novel, aunt julia and the scriptwriter. with this illustration, i hoped to convey the frenzied nature of the titular scriptwriter and the vibrant, coastal atmosphere of lima, peru. (2018)
+book cover design for mario vargas llosa's novel, aunt julia and the scriptwriter. with this illustration, i hoped to convey the frenzied nature of the titular scriptwriter and the vibrant, coastal atmosphere of lima, peru. (2018)
 
 ![llosa cover](/img/works/book_covers/llosa_cover/llosa-cover-full.jpg)
