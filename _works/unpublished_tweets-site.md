@@ -17,5 +17,5 @@ i designed and developed a website to host an ongoing personal collection of ana
 [toactivelyproducesilence.com](http://www.toactivelyproducesilence.com)
 
 ![unpublished tweets site](/img/works/unpublished_tweets/twitter-site-1.png)
-![unpublished tweets site](/img/works/unpublished_tweets/twitter-site-2.png)
 ![unpublished tweets site](/img/works/unpublished_tweets/twitter-site-3.png)
+![unpublished tweets site](/img/works/unpublished_tweets/twitter-site-2.png)
