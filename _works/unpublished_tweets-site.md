@@ -2,7 +2,7 @@
 layout: work
 date: 2020-02-13
 
-title: "published tweets"
+title: "toactivelyproducesilence.com"
 slug: "unpublished-tweets-site"
 sub: "programming"
 detail: "programming"
@@ -12,8 +12,10 @@ tags: []
 divider: "|"
 ---
 
-i designed and developed this website to host an ongoing collection of analog, handwritten, 140-character "tweets" in gridded a6 muji notebooks. this project was completed as a part of the inaugural [fruitful.school](https://fruitful.school/){:target="_blank"} learning initiative for making "fruitful websites." more on my unpublished tweets project [here](https://neeta.works/works/unpublished_tweets/).
+i designed and developed a website to host an ongoing personal collection of analog 140-character "tweets" handwritten in gridded a6 muji notebooks (more on that [here](https://neeta.works/works/unpublished_tweets/){:target="_blank"}). this site was completed as a part of the inaugural [fruitful.school](https://fruitful.school/){:target="_blank"} learning initiative for making "fruitful websites." 
 
-![unpublished tweets site](/img/works/unpublished_tweets/twitter-site-1.jpg)
-![unpublished tweets site](/img/works/unpublished_tweets/twitter-site-2.jpg)
-![unpublished tweets site](/img/works/unpublished_tweets/twitter-site-3.jpg)
+[toactivelyproducesilence.com](http://www.toactivelyproducesilence.com)
+
+![unpublished tweets site](/img/works/unpublished_tweets/twitter-site-1.png)
+![unpublished tweets site](/img/works/unpublished_tweets/twitter-site-2.png)
+![unpublished tweets site](/img/works/unpublished_tweets/twitter-site-3.png)
