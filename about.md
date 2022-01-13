@@ -11,7 +11,7 @@ title: about
 
 my name is neeta patel. i'm a graphic designer, programmer, art director, reader, runner, &c.
 
-i am currently pursuing my mfa in graphic design at [the yale school of art](https://www.art.yale.edu/). previously, i worked in the art department at [the new yorker](https://www.newyorker.com){:target="_blank"} magazine. i was the 2016 – 17 graphic design fellow at the [frank lloyd wright foundation](http://franklloydwright.org){:target="_blank"} at taliesin west, located in scottsdale, arizona. i received my undergraduate degree in [visual arts](http://vis.princeton.edu/){:target="_blank"} and computer science from princeton university.
+i am currently pursuing my mfa in graphic design at [the yale school of art](https://www.art.yale.edu/){:target="_blank"}. previously, i worked in the art department at [the new yorker](https://www.newyorker.com){:target="_blank"} magazine. i was the 2016 – 17 graphic design fellow at the [frank lloyd wright foundation](http://franklloydwright.org){:target="_blank"} at taliesin west, located in scottsdale, arizona. i received my undergraduate degree in [visual arts](http://vis.princeton.edu/){:target="_blank"} and computer science from princeton university.
 
 * [twitter](http://twitter.com/neetadotworks){:target="_blank"}
 * [instagram](http://instagram.com/neetadotworks/){:target="_blank"}
