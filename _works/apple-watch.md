@@ -16,6 +16,4 @@ youtubeId: 3EhltxI0pgE
 
 a proposed apple watch face design that asks the user to consider her relationship to time by visually tracking every instance in a 24-hour period that she checks the device.
 
-no media query test
-
 {% include youtubePlayer.html id=page.youtubeId %}
