@@ -14,4 +14,4 @@ divider: "|"
 
 yet to be filed.
 
-![strike issue animated cover](/img/strike-issue-cover/Strikeissue-_twitter_smallest.gif)
+![strike issue animated cover](/img/works/strike-issue-cover/Strikeissue-_twitter_smallest.gif)
