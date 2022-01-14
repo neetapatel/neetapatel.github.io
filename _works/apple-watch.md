@@ -11,12 +11,9 @@ img: "/img/works/apple_watchface/screenshot.jpg"
 tags: []
 divider: "|"
 
-driveId: 1Ggt-ceX3FDpBf-QsEaub9KyHA6hmFGm2/preview
 youtubeId: 3EhltxI0pgE
 ---
 
 a proposed apple watch face design that asks the user to consider her relationship to time by visually tracking every instance in a 24-hour period that she checks the device.
-
-{% include googleDrivePlayer.html id=page.driveId %}
 
 {% include youtubePlayer.html id=page.youtubeId %}
