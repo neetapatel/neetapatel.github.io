@@ -2,18 +2,16 @@
 layout: work
 date: 2021-06-10
 
-title: "new yorker strike issue cover"
+title: "the new yorker strike issue cover"
 slug: "strike-issue-cover"
 sub: "animation"
 detail: "animation"
 
-img: "/img/works/strike-issue-cover/Strikeissue-_twitter_smallest.gif"
+img: "/img/works/strike-issue-cover/strike-issue-tout.gif"
 tags: []
 divider: "|"
 ---
 
-yet to be filed.
+cover animation for a special labor-themed issue of the new yorker, created by members of the new yorker union. illustration by [genevieve bormes](https://www.gbormes.com/){:target="_blank"}. 2022 society of illustrators competition winner. 
 
 ![strike issue animated cover](/img/works/strike-issue-cover/Strikeissue-_twitter_smallest.gif)
-
-![strike issue animated cover](/img/works/Strikeissue-final-Instagram.mp4)
