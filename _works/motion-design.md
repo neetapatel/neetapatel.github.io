@@ -7,7 +7,7 @@ slug: "motion-design"
 sub: "animation"
 detail: "animation"
 
-img: "/img/works/motion-design/reel-tout.gif"
+img: "/img/works/motion-design/reel-tout-2.gif"
 tags: []
 divider: "|"
 
