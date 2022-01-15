@@ -7,7 +7,7 @@ slug: "ben-lily"
 sub: "website development"
 detail: "website development"
 
-img: "/img/works/ben-wedding-site/tout-animated-2.gif"
+img: "/img/works/ben-wedding-site/animated-tout.gif"
 tags: []
 divider: "|"
 ---

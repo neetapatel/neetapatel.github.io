@@ -7,7 +7,7 @@ slug: "unpublished-tweets-site"
 sub: "programming"
 detail: "programming"
 
-img: "/img/works/unpublished_tweets/twitter-site-tout.jpg"
+img: "/img/works/unpublished_tweets/twitter-site-animated-tout.gif"
 tags: []
 divider: "|"
 ---
