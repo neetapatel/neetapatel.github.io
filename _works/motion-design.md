@@ -2,12 +2,12 @@
 layout: work
 date: 2021-09-20
 
-title: "exercises in behavior"
+title: "exercises in choreography"
 slug: "motion-design"
 sub: "animation"
 detail: "animation"
 
-img: "/img/works/motion-design/tout.gif"
+img: "/img/works/motion-design/reel-tout.gif"
 tags: []
 divider: "|"
 
