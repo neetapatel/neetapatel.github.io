@@ -19,6 +19,6 @@ i am currently pursuing my mfa in graphic design at [the yale school of art](htt
 * [github](https://github.com/neetapatel/){:target="_blank"}
 * [are.na](https://www.are.na/neeta-patel){:target="_blank"}
 * [goodreads](https://www.goodreads.com/user/show/11214437-neeta){:target="_blank"}
-* [cv](/files/neeta_patel-cv.pdf){:target="_blank"}
+* [cv](/files/neeta-patel-cv_2022.pdf){:target="_blank"}
 
 neetapatel17 [at] gmail [dot] com
