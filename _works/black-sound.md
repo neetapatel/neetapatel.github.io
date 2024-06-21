@@ -12,7 +12,7 @@ tags: []
 divider: "|"
 ---
 
-i designed a set of logos for the black sound and the archive working group (bsaw) at yale university. read more about the working group at [blacksound.yale.edu](https://blacksound.yale.edu/){:target="_blank"}.
+i designed a set of logos for the black sound and the archive working group (bsaw) at yale university. the logo design connects to the organization's archival and sonic missions through the inclusion of the rewind and record symbols also found on audio devices. read more about the working group at [blacksound.yale.edu](https://blacksound.yale.edu/){:target="_blank"}.
 
 ![bsaw website](/img/works/black-sound/bsaw-website.png)
 
